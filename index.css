@@ -317,9 +317,15 @@ html {
     font-weight: bold;
 }
 
+.resume .content-section .info .col table .first_description {
+    border-left: 1px solid #bab9b9;
+    padding-left: 20px;
+}
+
 .resume .content-section .info .col table .description {
     border-left: 1px solid #bab9b9;
     padding-left: 20px;
+    padding-top: 48px;
 }
 
 /* CONTACT SECTION */
