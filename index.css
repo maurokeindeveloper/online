@@ -375,7 +375,7 @@ html {
 }
 
 /* RESPONSIVE SECTION */
-@media screen and (max-width:800px) {
+@media(max-width:800px) {
     .skills .content-section .rank {
         display: block;
     }
