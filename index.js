@@ -78,10 +78,10 @@ function showHideMenu() {
 }
 
 //hide menu once a choice was made 
-let links = document.querySelectorAll("nav a");
+/* let links = document.querySelectorAll("nav a");
 for (var x = 0; 0 < links.length; x++) {
     links[x].onclick = function () {
         menu.style.display = "none";
         visible_menu = false;
     }
-}
+} */
